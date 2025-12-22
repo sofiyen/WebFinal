@@ -20,7 +20,7 @@ export default function LoginPage() {
     return (
       <>
         <div className="fixed inset-0 -z-10 bg-[linear-gradient(180deg,var(--theme-color)_0%,#2f6b5d_100%)]" />
-        <div className="grid h-full place-items-center overflow-hidden px-4">
+        <div className="grid h-full place-items-center overflow-hidden px-4 pt-48">
           <div className="rounded-xl bg-white/90 px-5 py-3 text-slate-600 shadow-sm ring-1 ring-black/5 backdrop-blur">
             載入中...
           </div>
